@@ -1,0 +1,46 @@
+.calc{
+    width: 300px;
+    height: 500px;
+    margin: 100px auto;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.908);
+    padding: 5px;
+}
+#answer{
+    background-color: #e2e2e2;
+    padding: 12px;
+    margin-top: 10px;
+    font-size: 30px;
+    width: 272px;
+    height: 45px;
+    text-align: right;
+    border-radius: 15px 40px 30px;
+    border: none;
+}
+
+.button{
+    background:#333;
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+    margin: 7px;
+    color: white;
+    font-size: 20px;
+    border: 1px solid black;
+    float: left;
+}
+.button1{
+    width: 135px;
+}
+.buttonBox{
+
+    margin-top: 50px;
+}
+
+.acbtn{
+    color: aqua;
+}
+
+.lastbtn{
+    color: tomato;
+}
